@@ -23,8 +23,6 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+De
 - 💬 Ask Me About: Cyber security, Full-Stack Development, and Dev Tools
 - ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
   
----
-
 ### 🌐 Connect with Me
 <p align="left">
   
@@ -89,10 +87,8 @@ lor=white" alt="YouTube" />
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> -->
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> -->
   
----
-  
-**Workspace Setup:**
-  
+
+-**Workspace Setup:**<br>
    ⭐ Laptop: **HP 15s** <br>
    ⭐ Processor: **Intel I5** <br>
    ⭐ Graphics: **Intel iRIS xe** <br>
@@ -125,7 +121,9 @@ lor=white" alt="YouTube" />
 ---
 ### 📈 LeetCode Stats
 
+<p align="center">
 [![Ganish's LeetCode Stats](https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest)
+</p>
 
 ---
 
