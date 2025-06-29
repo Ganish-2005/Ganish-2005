@@ -125,7 +125,7 @@ lor=white" alt="YouTube" />
 ---
 ### 📈 LeetCode Stats
 
-[![ Ganish's LeetCode Stats](https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest)" 
+[![Ganish's LeetCode Stats](https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest)
 
 ---
 
