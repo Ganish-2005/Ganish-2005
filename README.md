@@ -119,18 +119,13 @@ lor=white" alt="YouTube" />
 <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
 </a>
 
-    <!-- GeeksForGeeks -->
-<!--<a href="" target="GeeksForGeeks">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
-</a>-->
 
 </p>
 
 ---
 ### 📈 LeetCode Stats
-<p align="center">
-<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest)" />
-</p>
+
+[![ Ganish's LeetCode Stats](https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest)" 
 
 ---
 
