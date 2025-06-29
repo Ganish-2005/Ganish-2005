@@ -86,7 +86,7 @@ lor=white" alt="YouTube" />
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/> -->
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> -->
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> -->
-
+---
 - **Workspace Setup:**<br>
    ⭐ Laptop: **HP 15s** <br>
    ⭐ Processor: **Intel I5** <br>
@@ -151,7 +151,7 @@ lor=white" alt="YouTube" />
 
 
 ### 🌟 Activity Graph
-[![Ganish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganish-2005&bg_color=0f0008&color=f4f0f4&line=63f03d&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ganish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganish-2005&bg_color=030202&color=f4f0f4&line=63f03d&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
