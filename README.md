@@ -87,14 +87,13 @@ lor=white" alt="YouTube" />
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> -->
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> -->
   
-
--**Workspace Setup:**
-<br>
+<p>
+-**Workspace Setup:**<br>
      ⭐ Laptop: **HP 15s** <br>
      ⭐ Processor: **Intel I5** <br>
      ⭐ Graphics: **Intel iRIS xe** <br>
      ⭐ RAM: **8GB** <br>
-     </p>
+</p>
  
  ---
  
