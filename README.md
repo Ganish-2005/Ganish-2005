@@ -22,6 +22,8 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+De
 - 👯 Collaboration Goals: Building innovative and impactful projects
 - 💬 Ask Me About: Cyber security, Full-Stack Development, and Dev Tools
 - ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
+  
+---
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -86,8 +88,11 @@ lor=white" alt="YouTube" />
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/> -->
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> -->
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> -->
+  
 ---
-- **Workspace Setup:**<br>
+  
+**Workspace Setup:**
+  
    ⭐ Laptop: **HP 15s** <br>
    ⭐ Processor: **Intel I5** <br>
    ⭐ Graphics: **Intel iRIS xe** <br>
@@ -111,7 +116,7 @@ lor=white" alt="YouTube" />
 
   <!-- CodeChef -->
 <a href="https://www.codechef.com/users/ganish_t_05" target="CodeChef">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
+<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
 </a>
 
     <!-- GeeksForGeeks -->
