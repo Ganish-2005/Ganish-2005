@@ -88,12 +88,13 @@ lor=white" alt="YouTube" />
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> -->
   
 
--**Workspace Setup:**<br>
-   ⭐ Laptop: **HP 15s** <br>
-   ⭐ Processor: **Intel I5** <br>
-   ⭐ Graphics: **Intel iRIS xe** <br>
-   ⭐ RAM: **8GB** <br>
-   </p>
+-**Workspace Setup:**
+<br>
+     ⭐ Laptop: **HP 15s** <br>
+     ⭐ Processor: **Intel I5** <br>
+     ⭐ Graphics: **Intel iRIS xe** <br>
+     ⭐ RAM: **8GB** <br>
+     </p>
  
  ---
  
@@ -122,7 +123,7 @@ lor=white" alt="YouTube" />
 ### 📈 LeetCode Stats
 
 <p align="center">
-[![Ganish's LeetCode Stats](https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest)
+<img src="https://leetcard.jacoblin.cool/autiet22cy013?theme=dark&font=Roboto%20Flex&ext=contest" />
 </p>
 
 ---
