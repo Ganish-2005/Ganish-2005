@@ -68,7 +68,7 @@ lor=white" alt="YouTube" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" /> 
 <!-- <img width="50" height="50" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> -->
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
+<!-- <img width="50" height="50" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/> -->
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
@@ -90,7 +90,7 @@ lor=white" alt="YouTube" />
 - **Workspace Setup:**<br>
    ⭐ Laptop: **HP 15s** <br>
    ⭐ Processor: **Intel I5** <br>
-   ⭐ Graphics: **Intel iRISx^e** <br>
+   ⭐ Graphics: **Intel iRIS xe** <br>
    ⭐ RAM: **8GB** <br>
    </p>
  
@@ -100,27 +100,17 @@ lor=white" alt="YouTube" />
 <p align="left">
   
 <!-- LeetCode -->
-<a href="https://leetcode.com/u/HariCoder2111/" target="LeetCode">
+<a href="https://leetcode.com/u/autiet22cy013/" target="LeetCode">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
   <!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/kumarhariharan_1" target="HackerRank">
+<a href="https://www.hackerrank.com/profile/h731622149013" target="HackerRank">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
-  
-  <!-- HackerEarth -->
-<a href="https://www.hackerearth.com/@kumarhariharan.k007" target="HackerEarth">
-<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
-</a>
-  
-  <!-- StackOverFlow -->
-<a href="" target="StackOverFlow">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-  
+
   <!-- CodeChef -->
-<!--<a href="https://www.codechef.com/users/hariharankm" target="CodeChef">
+<a href="https://www.codechef.com/users/ganish_t_05" target="CodeChef">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
 </a>
 
