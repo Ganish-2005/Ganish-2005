@@ -107,26 +107,6 @@
 
 </p>
 
-### Tools
-
-- Kali Linux
-- Burp Suite
-- Nmap
-- Metasploit
-- OWASP ZAP
-- Gobuster
-- ffuf
-- Nikto
-- SQLMap
-- Wireshark
-- Hydra
-- John the Ripper
-- Hashcat
-- Netcat
-- Dirsearch
-- Git
-- Docker (Learning)
-
 ---
 
 ## 💻 Workspace
