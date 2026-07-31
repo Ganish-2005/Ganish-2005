@@ -4,9 +4,20 @@
 
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350"/>
 
-## 🛡️ Cyber Security Intern
+## 💼 Experience
 
-💼 **CubeAi Solutions**
+### 🛡️ Cyber Security Analyst Intern
+**CubeAI Solutions** | Completed Internship
+
+- Performed **Web Application Vulnerability Assessment and Penetration Testing (VAPT)** on web applications.
+- Conducted **reconnaissance, vulnerability identification, and security testing** using industry-standard tools.
+- Worked with tools including **Burp Suite, Nmap, OWASP ZAP, Nikto, SQLMap, Wireshark, and Metasploit**.
+- Tested applications against the **OWASP Top 10** security risks.
+- Identified and validated security vulnerabilities, including misconfigurations and common web application flaws.
+- Prepared vulnerability reports with risk ratings, proof of concept (PoC), and remediation recommendations.
+- Strengthened practical knowledge of penetration testing methodologies and cybersecurity best practices.
+
+---
 
 ---
 
@@ -64,9 +75,6 @@
 <p>
 
 <img src="https://img.icons8.com/color/48/python.png"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/fluency/48/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/javascript.png"/>
 <img src="https://img.icons8.com/color/48/html-5.png"/>
 <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -159,11 +167,11 @@
 <img src="https://img.shields.io/badge/PortSwigger-orange?style=for-the-badge"/>
 </a>
 
-<a href="https://tryhackme.com/">
+<a href="https://tryhackme.com/p/GANISHV">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 </a>
 
-<a href="https://www.hackthebox.com/">
+<a href="[https://www.hackthebox.com/](https://profile.hackthebox.com/profile/019fb683-2c65-731d-973f-00721080f6cb)">
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
