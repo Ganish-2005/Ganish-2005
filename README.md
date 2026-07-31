@@ -2,11 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:00c3ff&text=GANISH%20V&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20|%20VAPT%20|%20Bug%20Bounty%20|%20CTF&descAlignY=60"/>
      
 </p>
-# Hi there 👋🏻, I'm **GANISH V**
-
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Web+Application+Penetration+Tester;Bug+Bounty+Hunter;Capture+The+Flag+Player;Cyber+Security+Researcher;Always+Learning+Always+Hacking"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Web+Application+Penetration+Tester;Bug+Bounty+Hunter;Capture+The+Flag+Player;Cyber+Security+Researcher;Always+Learning+Always+Hacking"/>
 </p>
 
 <img align="right"
