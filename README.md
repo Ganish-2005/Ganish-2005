@@ -2,7 +2,9 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=VAPT+Learner;Bug+Bounty+Hunter;CTF+Player;Cyber+Security+Enthusiast;Future+Red+Teamer&font=Fira%20Code&center=true&width=500&height=45&color=00BCD4&vCenter=true&size=22)
 
-<img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350"/>
+<img align="right"
+     src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+     width="350" alt="Cyber Security Animation"/>
 
 ## 💼 Experience
 
