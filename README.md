@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Web+Application+Penetration+Tester;Bug+Bounty+Hunter;Capture+The+Flag+Player;Cyber+Security+Researcher;Always+Learning+Always+Hacking"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Web+Application+Penetration+Tester;Bug+Bounty+Hunter;C+T+F+Player;Cyber+Security+Practitioner;Always+Learning+Always+Hacking"/>
 </p>
 
 <img align="right"
