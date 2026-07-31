@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 - 🎯 Currently focusing on **Web Application Penetration Testing (VAPT)**
@@ -147,6 +145,22 @@
 
 <p>
 
+<a href="https://tryhackme.com/p/GANISHV">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="[https://www.hackthebox.com/](https://profile.hackthebox.com/profile/019fb683-2c65-731d-973f-00721080f6cb)">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+
+<a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger-orange?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/users/ganish_t_05">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
 <a href="https://leetcode.com/u/autiet22cy013/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
@@ -155,24 +169,8 @@
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-<a href="https://www.codechef.com/users/ganish_t_05">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
 <a href="https://ctftime.org/">
 <img src="https://img.shields.io/badge/CTFtime-red?style=for-the-badge"/>
-</a>
-
-<a href="https://portswigger.net/web-security">
-<img src="https://img.shields.io/badge/PortSwigger-orange?style=for-the-badge"/>
-</a>
-
-<a href="https://tryhackme.com/p/GANISHV">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
-</a>
-
-<a href="[https://www.hackthebox.com/](https://profile.hackthebox.com/profile/019fb683-2c65-731d-973f-00721080f6cb)">
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
 </p>
